@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @gesim-dave123
-- 👀 I’m interested in system development
+- 👀 I’m interested in Web and Application Development
 - 🌱 I’m currently learning java and web development
-- 😄 Pronouns: love
-- ⚡ Fun fact: I am in my second year in information technology and I still can't program basic problems
+- ⚡ Fun fact: I am in my second year in information technology 
 
 <!---
 gesim-dave123/gesim-dave123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
