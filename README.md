@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @gesim-dave123
-- 👀 I’m interested in Web and Application Development
-- 🌱 I’m currently learning java and web development
 
 
 <!---
