@@ -16,4 +16,4 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gesim-dave123&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gesim-dave123&show_icons=true&count_private=true)
